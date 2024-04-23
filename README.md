@@ -1,4 +1,9 @@
 Red Hat TY Week 2024
 
-Monday 22nd April
-We started the day at 10 am, Cathal introduced us to the program and explained to our group what Red Hat does as a company. Afterwards we were given a tour of the office by Becky, who showed us where our desks were
+Monday 22nd 
+We started the day at 10 am, Cathal introduced us to the program and explained to our group what Red Hat does as a company.We did an icebreaker to get to know the names of the people in the room (The other TY students and the college interns) We were each taped a paper with the name of a person (ficticional or real) to our backs and had to ask eachother yes or no questions until we figured out wo we were, I found this a very fun icebreaker and got to know may people's names. Afterwards we were given a tour of the office by Becky, who showed us where our desks were. After that we were given free time to do whatever we wanted until our next workshop, at 2 pm.
+All 7 TY Interns decided to play Mario Kart on the nintendo switch, which got us talking to eachother.
+After lunch we had our first workshop about Agile with Fortune. He teached us about the concept of agility anad adapting to change and then we did an activity using the Kanban method to plan ahead, track progress and maximise productivity. We divided into 2 groups and built Mr Potato using the method, writing sticky notes with the tasks we had to do, following the criteria our product owner imposed. It was a fun activity and it explained the method very well. After we were done building Mr Potato, we did a Retrospective chart, thinking about what went well and what we could've improved on. When we finished this task we were allowed to go home.
+
+Tuesday 23rd
+Today we started the day off at 9:30, it was a much more intense day than Monday as we had 2 workshops. The first one was the Git workshop. We were in the Valentia room this time. The interns teached about the command line and some commands to use on the terminal, we created some folders and files and deleted them, I thought this was very useful. Then we moved on to creating a GitHub account 
